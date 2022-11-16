@@ -1,5 +1,5 @@
 {
-    "name": "api.natsuite.natshare",
+    "name": "jp.co.kidsstar.pretendland.natshare",
     "version": "1.2.6",
     "displayName": "NatShare",
     "description": "Cross-platform social sharing for Unity Engine.",
@@ -18,5 +18,5 @@
         "url": "https://github.com/natsuite"
     },
     "license": "MIT",
-    "repository": "github:natsuite/NatShare"
+    "repository": "github:kidsstar/NatShare"
 }
